@@ -1,7 +1,7 @@
 # Eneuro
 Neurodynamics of awareness detection in immigrants at high altitudes 
 
-The file contained behavioral data, EEG data and their codes to analyze them
+The file contained behavioral data, EEG data and their codes to analyze them.
 
 Data:
 In the behavioral data (exp.txt), subj_id represents the number of the subject, rt represents the response of the 
