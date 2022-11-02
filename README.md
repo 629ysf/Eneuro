@@ -5,8 +5,7 @@ Data:
 In the behavioral data (exp.txt), subj_id represents the number of the subject, rt represents the response of the 
 corresponding conscious detection of the subject, angle represents the tilt Angle of the target stimulus, 
 and response represents the choice (1, left; 2, right).
-These three EEG data (1_cleandata.mat; 3_cleandata.mat; 4_cleandata.mat) are clean data that have been 
-preprocessed. If you need other data, you can send email to me.
+Because of the large size of the EEG data, we didn't pass it on. If you need the data, you can send email to me.
 
 Code:
 The HDDM code from the site-https://hddm.readthedocs.io/en/latest/  was ran by the jupyter notebook (
