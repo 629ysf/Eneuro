@@ -1,6 +1,4 @@
-# Eneuro
-Neurodynamics of awareness detection in immigrants at high altitudes 
-
+# Neurodynamics of awareness detection in immigrants at high altitudes 
 The file contained behavioral data, EEG data and their codes to analyze them.
 
 Data:
